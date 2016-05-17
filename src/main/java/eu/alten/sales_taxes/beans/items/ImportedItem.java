@@ -2,8 +2,6 @@ package eu.alten.sales_taxes.beans.items;
 
 import eu.alten.sales_taxes.utils.TaxesUtils;
 
-import java.math.BigDecimal;
-
 /**
  * ImportedItem, generic item having an additional tax rate equals to TaxesUtils.EXTRA_TAX_RATE
  */
