@@ -81,10 +81,6 @@ public class Item {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public BigDecimal getTaxAmount() {
         return taxAmount;
     }

@@ -119,10 +119,6 @@ public class Basket {
         return total;
     }
 
-    public BigDecimal getTaxes() {
-        return taxes;
-    }
-
     public Map<Item, Integer> getItems() {
         return items;
     }
