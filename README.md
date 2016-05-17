@@ -2,6 +2,7 @@
 ### Requirements
 - JDK 1.7 or higher
 - Maven
+
 #### Usage
 From the main directory run:
 ```bash
